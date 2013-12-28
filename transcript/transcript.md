@@ -55,4 +55,5 @@ not all that impressive."
 I remember being very deflated, and kind of going back to the drawing
 board. Well, that was six months ago. In the interim, the importance
 of security technology and privacy technology has become really
-central to what it is that I do
+central to what it is that I do. I really have learned an enormous
+amount, about both its importance and how it functions.
