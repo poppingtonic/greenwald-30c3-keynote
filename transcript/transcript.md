@@ -76,9 +76,33 @@ encryption, or are embarrassed and ashamed that they dont, and
 apologize for the fact that they don't, and vow that they're soon
 going to.
 
-It's a really remarkable sea-change, even from the middle of last year,
-when I would talk to some of the leading national security journalists
-*in the world* who were working on some of the most sensitive
-information, and virtually none of them knew what PGP or OTR or any
-other of the leading privacy technologies were, let alone how to use
-them.
+It's a really remarkable sea-change, even from the middle of last
+year, when I would talk to some of the leading national security
+journalists *in the world* who were working on some of the most
+sensitive information, and virtually none of them knew what PGP or OTR
+or any other of the leading privacy technologies were, let alone how
+to use them. It's really encouraging to see this technology spreading
+so pervasively. 
+
+I think that this underscores a really important point, one that gives
+me great cause for optimism. I'm often asked whether I think that the
+stories that we've been learning over the last six months, the
+reporting and the debates that have arisen will actually change
+anything and impose any real limits on the US surveillance state.
+
+Typically, when people think the answer to that question is yes, the
+thing that they cite most commonly is probably [really significant],
+which is that there's going to be some kind of debate, and our
+representatives in democratic government are going to respond to our
+debate, and they're going to impose limits with legislative reform.
+
+None of that is likely to happen. The US government and its allies are
+not going to voluntarily restrict their own surveillance powers in any
+meaningful way. In fact, the tactic of the US government that we've
+seen over and over, that we've seen historically, is to do the very
+opposite, which is that when they get caught doing something that
+brings them disrepute and causes scandal and concern, they're very
+adept at pretending to reform themselves through symbolic gestures,
+while at the same time, doing very little, other than placating
+citizen anger and often increasing their own powers, that created the
+scandal in the first place.
