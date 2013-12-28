@@ -6,4 +6,7 @@ Glenn Greenwald's 30C3 Keynote
 **Notes:**
 
 * I've edited the transcript for clarity.
-* The last transcribed timestamp appears in the commit message alongside the `transcript' folder.
+
+* The last transcribed timestamp appears in the commit message
+  alongside the `transcript' folder. My progress so far is thus
+  indicated by the time displayed in the commit message.
