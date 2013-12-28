@@ -1,6 +1,6 @@
 ## Keynote
 
-Moderator: * So that was your applause, Glenn! Welcome to the 30th Chaos Communication Congress, in Hamburg. The floor is yours!*
+Moderator: *So that was your applause, Glenn! Welcome to the 30th Chaos Communication Congress, in Hamburg. The floor is yours!*
 
 Thank you, thank you very much.
 
