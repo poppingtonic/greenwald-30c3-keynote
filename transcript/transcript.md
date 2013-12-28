@@ -55,5 +55,16 @@ not all that impressive."
 I remember being very deflated, and kind of going back to the drawing
 board. Well, that was six months ago. In the interim, the importance
 of security technology and privacy technology has become really
-central to what it is that I do. I really have learned an enormous
-amount, about both its importance and how it functions.
+central to everything it is that I do. I really have learned an
+enormous amount, about both its importance and how it functions. I'm
+far from the only one. I think one of the most significant outcomes of
+the last six months, but one of the most underdiscussed, is how many
+people now appreciate the importance of protecting the security of their communications. 
+
+If you go and look at my inbox from July, probably 3-5% of the emails
+I received were composed of PGP code. That percentage is definitely
+above 50% today, and probably well above 50%. When we talked about
+forming our new media company, we barely spent any time on the
+question. It was simply assumed that we were all going to use the most
+sophisticated encryption that was available to communicate with one
+another.
