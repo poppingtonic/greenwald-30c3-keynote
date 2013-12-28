@@ -1,7 +1,7 @@
-greenwald-30c3-keynote
+Glenn Greenwald's 30C3 Keynote
 ======================
 
-Glenn Greenwald's keynote at 30C3 (the 30th Chaos Communications Congress).
+30C3 is the 30th Chaos Communications Congress.
 
 *Notes:*
 
