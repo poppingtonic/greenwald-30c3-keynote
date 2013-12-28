@@ -47,9 +47,12 @@ rolling their eyes out of their heads at me, to one another.
 I said, "Why are you reacting that way? Why isn't that a great
 accomplishment?" They sort of let some moments go by. No one wanted to
 break it to me until finally Snowden piped in and said, "TrueCrypt is
-really meant for your kid brother to be able to master. It's not all
-that impressive."
+really meant for your little kid brother to be able to master. It's
+not all that impressive."
 
 [laughter from the audience]
 
-
+I remember being very deflated, and kind of going back to the drawing
+board. Well, that was six months ago. In the interim, the importance
+of security technology and privacy technology has become really
+central to what it is that I do
