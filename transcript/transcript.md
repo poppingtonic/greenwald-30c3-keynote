@@ -59,7 +59,8 @@ central to everything it is that I do. I really have learned an
 enormous amount, about both its importance and how it functions. I'm
 far from the only one. I think one of the most significant outcomes of
 the last six months, but one of the most underdiscussed, is how many
-people now appreciate the importance of protecting the security of their communications. 
+people now appreciate the importance of protecting the security of
+their communications.
 
 If you go and look at my inbox from July, probably 3-5% of the emails
 I received were composed of PGP code. That percentage is definitely
@@ -67,4 +68,17 @@ above 50% today, and probably well above 50%. When we talked about
 forming our new media company, we barely spent any time on the
 question. It was simply assumed that we were all going to use the most
 sophisticated encryption that was available to communicate with one
-another.
+another. 
+
+I think, most encouragingly, whenever I'm contacted by anyone in
+journalism or activism, or any related fields, they either use
+encryption, or are embarrassed and ashamed that they dont, and
+apologize for the fact that they don't, and vow that they're soon
+going to.
+
+It's a really remarkable sea-change, even from the middle of last year,
+when I would talk to some of the leading national security journalists
+*in the world* who were working on some of the most sensitive
+information, and virtually none of them knew what PGP or OTR or any
+other of the leading privacy technologies were, let alone how to use
+them.
