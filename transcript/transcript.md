@@ -104,5 +104,35 @@ opposite, which is that when they get caught doing something that
 brings them disrepute and causes scandal and concern, they're very
 adept at pretending to reform themselves through symbolic gestures,
 while at the same time, doing very little, other than placating
-citizen anger and often increasing their own powers, that created the
+citizen anger and often increasing their own powers that created the
 scandal in the first place.
+
+We saw that in the mid-1970s, when there were serious concern and
+alarm in the United States, at least as much as there is now, if not
+more so, of the US government's surveillance capabilities and abuse.
+What the US government did in response was that they said, "Well,
+we're going to engage in all of these reforms, that will safeguard
+these powers. We're going to create a special court that the
+government needs to go to to get permission before they can target
+people with surveillance.
+
+That sounded great, but then they created the court in the most warped
+way possible. It's a secret court, where only the government gets to
+show up, where only the most pro-national security judges are
+appointed. So this court gave the appearance of oversight, when in
+reality it's the most grotesque rubber stamp that is known to the
+Western world. They almost never disapprove of anything. It simply
+created the appearance that there was judicial oversight.
+
+They also said they were going to create Congressional committees. The
+intelligence committees that are going to have as their main function
+overseeing the intelligence committees, and making certain that they
+no longer abuse their power. What they did instead was immediately
+install the most servile loyalists of the intelligence committees as
+head of this so-called "oversight committee".
+
+That's been going on for decades, and today we have two of the most
+slavish, pro-NSA members of Congress, as the heads of these committees
+who are really there to bolster and justify anything and everything
+the NSA does, rather than engage in real oversight. So it's designed
+to prettify the process while bringing about no real reform.
