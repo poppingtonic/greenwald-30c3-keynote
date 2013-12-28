@@ -132,7 +132,42 @@ install the most servile loyalists of the intelligence committees as
 head of this so-called "oversight committee".
 
 That's been going on for decades, and today we have two of the most
-slavish, pro-NSA members of Congress, as the heads of these committees
+slavish, pro-NSA members of Congress as the heads of these committees
 who are really there to bolster and justify anything and everything
-the NSA does, rather than engage in real oversight. So it's designed
-to prettify the process while bringing about no real reform.
+the NSA does, rather than engage in real oversight. So, again, it's
+designed to prettify the process while bringing about no real reform.
+
+This process is now repeating itself. You see the President appoint a
+handful of his closest loyalists to this "independent White House
+panel" that pretended to issue a report that was very balanced and
+critical of the surveillance state, but in reality, introduced a
+variety of programs that, at the very best, would simply make these
+programs slightly more palatable from a public perspective, and in
+many cases, intensify the powers of the surveillance state, rather than
+reining them in in any meaningful way.
+
+So the answer to whether we're or not going to have meaningful reform
+definitely does not lie in the typical processes of democratic
+accountability that we're all taught to respect. But they do lie
+elsewhere. It is possible that there will be courts that will impose
+some meaningful restrictions by finding that the programs are
+unconstitutional. 
+
+It's much more possible that other countries around the world who are
+truly indignant about the breaches of their privacy security will band
+together and create alternatives, either in terms of infrastructure,
+or legal regimes that will prevent the United States from exercising
+hedgemony over the Internet or make the cost of doing so far too high.
+I think, even more promising is the fact that large private
+corporations, Internet companies and others will start finally paying
+a price for their collaboration with this spying regime. 
+
+We've seen that already, when they've been dragged into the light, and
+finally now are forced to account for what it is that they're doing,
+and to realize that their economic interests are imperiled by the
+spying system, exercising their unparallelled power to demand that it
+be reined in. I think that all of those things are very possible as
+serious constraints on the surveillance state.
+
+But I ultimately think that where the greatest hope lies is with the
+people in this room and the skills that all of you possess. The privacy technologies that have already been developed: the Tor Browser, PGP, OTR, and a variety of other products are making real inroads.
