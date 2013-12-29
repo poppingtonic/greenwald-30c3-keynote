@@ -261,4 +261,79 @@ a single individual.
 
 [audience applauds]
 
+But I think that it's so important to realize, and to me, this is the
+critical point, is that none of us, the three of us, did what we did
+in a vacuum. We were all inspired by people who have done similar
+things in the past. I'm absolutely certain that Edward Snowden was
+inspired in all sorts of ways by the heroism and self-sacrifice of
+Chelsea Manning. 
+
+[audience applauds and cheers]
+
+And I'm quite certain that, in one way or another, she (Chelsea
+Manning) was inspired by the whole litany of whistleblowers and other
+people of conscience who came before her to blow the whistle on
+extreme levels of corruption, wrongdoing and illegality among the
+world's most powerful factions. They in turn were inspired, I'm
+certain, by a person who is one of my greatest political heroes,
+Daniel Ellsberg, who did this forty years ago.
+
+[audience applauds]
+
+Even beyond that, I think it is really important to realize that
+everything that has been allowed to happen over the last six months,
+and I think, any kind of significant leak and whistleblowing of
+classified information in the digital age, both past and future, owes
+a huge debt of gratitude to the organization which really pioneered
+the template, and that's [WikiLeaks](https://wikileaks.org). 
+
+[audience applauds]
+
+You know, we didn't copy, to the letter, the model of WikiLeaks. We
+modified it a little bit, just like WikiLeaks modified what it has
+decided where it's best tactics and strategies as it went along and
+I'm sure people who come after us will modify what we have done to
+improve on what we have done and to avoid some of our mistakes and
+some of the attacks that have actually been successful. But I think
+the point that is really underscored here, and it was underscored for
+me, probably most powerfully, when Edward Snowden was rescued from
+Hong Kong, from probable arrest and imprisonment for the next thirty
+years by the United States, not only by WikiLeaks, but by an
+extraordinarily courageous and heroic woman, Sarah Harrison.
+
+There's a huge network of human beings, around the world, who believe
+in this cause, and not only believe in it, but are increasingly
+willing to devoote their energies and their resources, and their time,
+and to sacrifice for it. There's a reason that that's remarkable, and
+it kind of occurred to me in a telephone call that I had with Laura,
+probably two months or so ago. Although we've communicated every day,
+we've almost never communicated by telephone. One of the few
+exceptions was we were going to speak at an event at the [Electronic
+Frontier Foundation](https://www.eff.org) and we got on the phone the
+night before to sort-of talk about what ground she would cover, and
+what ground I would cover. 
+
+What she said to me is, "You know, it's amazing if you think about
+it." She went through the list of people who have devoted themselves
+to transparency and the price that they have paid. She said Edward
+Snowden is stuck in Russia facing thirty years in prison, Chelsea
+Manning is in prison, Aaron Swartz committed suicide. People like
+Jeremy Hammond and Barret Brown are the subjects of grotesquely
+overzealous prosecution by virtue of the acts of transparency they've
+engaged in. Even people like Jim Risen, who is with an organization
+like the New York Times, faces the possibility of prison for stories
+that he's published. 
+
+Laura and I have been advised by countless lawyers that it is not safe
+for us to even travel to our own country, and she said, "It's really a
+sign of how sick our political future has become, that the price for
+bringing transparency to the government, and for doing the job of the
+media, and the Congress, that they're not doing, is an extreme form of
+punishment.
+
+You know, she was right, and she had a good point. I had a hard time
+disagreeing with the thing that anybody would. But I said, you know,
+there's actually another interesting point that that list reveals. The
+thing that's so interesting to me about that list is that it actually
+keeps growing, as long as it is. The reason why that's so amazing to me is because the reason the people on that list, and others, pay a price, is because the United States knows that it's only hope for continuing to maintain its regimen of secrecy behind which it can engage in those radical and corrupt acts, is to intimidate, deter and threaten people who are would-be whistleblowers and transparency activists from coming forward and doing what it is that they do by showing them that they would be subjected to even the most extreme punishments and there's nothing anybody can do about it.
 
