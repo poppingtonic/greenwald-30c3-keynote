@@ -465,3 +465,119 @@ British media.
 [audience applauds]
 
 
+And so we spent a great deal of time strategizing about it, we
+resolved that we were going to have to be very disruptive of the
+status quo. Not only the surveillance and political status quo, but
+also the journalistic status quo. And, I think, one of the ways we can see what it is we were targeting these and the behaviour of the media over the past six months since these revelations have emerged almost entirely without them and despite them. 
+
+One of the more remarkable things that has happened to me is I gave an
+interview, three weeks or so, or a month ago, on BBC, it was on this
+program called Hard Talk, and I, at one point, thought I had made what
+I thought was the very unremarkable and uncontroversial observation,
+that the reason why we have a free press is because national security
+officials routinely lie to the population in order to shield their
+power and to get their agenda advanced, and that the goal and duty of
+a journalist is to be adversarial to those people in power, and that
+the pronouncements that this interviewer was citing about how these
+government programs are critical to stopping terrorists should not be
+believed unless there's actual evidence shown, that they're actually
+true.
+
+[audience applauds]
+
+When I said that, he interrupted me, (and I'm sorry, I don't do pompous British accents well, so you'll just have to transpose it into your own imagination onto what I'm saying), and he said, "I just need to stop you, you have said something so remarkable!" He was like a Victorian priest scandalized by seeing a woman pull up her skirt a little bit over her ankles.
+
+[audience laughs]
+
+He said, "I just cannot believe that you would suggest that senior officials, generals in the United States and British government are actually making false claims to the public! How can you possibly say something like that?"
+
+[audience laughs, applauds]
+
+And that is not abberational. It really is the central view of,
+certainly, American and British media stars, that when, especially
+people with medals on their chests, who are called generals, but also
+high-ranking officials in the government make claims, that those
+claims are presumptively treated as true without evidence, and that
+it's almost immoral to call them into question, or question their
+veracity.
+
+Obviously, we went through the Iraq war, which was two very sane
+governments specifically and deliberately lied, repeatedly, to their
+people, over the course of two years, to justify an aggressive war
+that destroyed a country of 26 million people. But we've seen it
+continuously over the last six months as well. The very first document
+that Edward Snowden ever showed me was one that he explained would
+reveal unquestionable lying, by the senior national intelligence
+official of President Obama, the Director of National Intelligence,
+James Clapper. That was the document that revealed that the Obama
+administration had succeeded in convincing a secret court to [? 32:47]
+phone companies to turn over, to the NSA, every single phone record,
+of every single telephone call, local and international, of every
+single American, even though that National Security official, before
+the Senate, just months earlier, was asked, "Does the NSA collect
+whole data about the communications of Americans?" and he answered,
+"No, sir," what we all now know is a complete lie.
+
+There are other lies that the NSA and the US government's top
+officials have told. And by 'lie' I mean, advisedly, things they know
+to be false that they're saying anyway to convince people of what they
+want them to believe. Keith Alexander, the head of the NSA, repeatedly
+said that they are incapable of accounting for the exact number of
+calls and emails that they intercept from the American
+telecommunications system, even the program that we ended up exposing,
+Boundless Informant, counts with exact mathematical precision, exactly
+the data which he said he is incapable of providing. Or the NSA and
+the GHCQ, which have repeatedly said, that the purpose of these
+programs is to protect people from terrorism, and to safeguard
+national security, and that they never, unlike those evil thieves,
+engage in spying for economic reasons.
+
+And yet, report after report that we revealed, from spying on the
+Brazilian oil giant, Petrobras, to the spying on [? 34:19 -> 34:22] at
+economic summits where economic accords were negotiated, to energy
+companies around the world in Europe, Asia and Latin America, just
+completely negate these claims, prove that they are lies. And we have
+President Obama, who repeatedly says things like, "We cannot, and do
+not, spy on the [? 34:41 -> 34:42] communications of Americans without
+warrants, even though the 2008 law that was enacted by the Congress,
+of which it was a part, had [? 34:49 -> 34:50] the US government to
+ease up on American [? 34:53] without warrants. 
+
+And what you see here, is real lying. And yet, at the same time, the
+same media that sees it acts scandalized if you suggest that their
+claims should not be taken at face value, without evidence, because
+their role is not to be adversarial. Their role is to be loyal
+spokespeople to those powerful factions that pretend to exercise
+oversight. 
+
+[audience applauds]
+
+Just one more point on that, to understand just how the American and
+British media function. You can pretty much turn on the TV, at any
+moment, or open an Internet website, and see very brave American
+journalists calling Edward Snowden a criminal and demanding that he be
+extradited to the United States, prosecuted and imprisoned. They're
+very very brave when it comes to declaring people who are scorned in
+Washington, and who have no power, and have become marginalized. They're very brave in condemning them, standing up to them, and demanding that the rule of law be applied to them faithfully. "He broke the law, he must pay the consequences."
+
+And yet, the top national security official of the United States
+government went to the senate and lied to their faces, everybody now
+knows, which is at least as serious of a crime as anything Edward
+Snowden is accused of.
+
+[audience applauds]
+
+You will be very hard pressed to find a single one of those brave,
+intrepid journalists, ever thinking about, let alone expressing the
+idea that Director of National Intelligence James Clapper ought to be
+subject to the rule of law and be prosecuted and imprisoned for the
+crimes that he committed because the role of the US media and their
+British counterparts is to be voices for those with the greatest
+power, and to protect their interests and serve them. Everything that
+we've done over the last six months, and everything that we've decided
+over the last month about forming a new media organization is all
+about trying to subvert that process and reanimate, and reinstill the
+process of journalism for what it was intended to be, which was as a
+true adversarial force, a check against those with the greatest power.
+
+[audience applauds]
