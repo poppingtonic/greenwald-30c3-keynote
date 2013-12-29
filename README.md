@@ -11,6 +11,10 @@ Glenn Greenwald's 30C3 Keynote
   alongside the `transcript' folder. My progress so far is thus
   indicated by the time displayed in the commit message.
 
+* * *
 
+LICENSE: CC-BY-NC-SA
+
+* * *
 
 Bitcoin Donations: 18HojXGeBZDaKe1XtNgk79vBej6A4WQmJp

@@ -335,5 +335,43 @@ You know, she was right, and she had a good point. I had a hard time
 disagreeing with the thing that anybody would. But I said, you know,
 there's actually another interesting point that that list reveals. The
 thing that's so interesting to me about that list is that it actually
-keeps growing, as long as it is. The reason why that's so amazing to me is because the reason the people on that list, and others, pay a price, is because the United States knows that it's only hope for continuing to maintain its regimen of secrecy behind which it can engage in those radical and corrupt acts, is to intimidate, deter and threaten people who are would-be whistleblowers and transparency activists from coming forward and doing what it is that they do by showing them that they would be subjected to even the most extreme punishments and there's nothing anybody can do about it.
+keeps growing, as long as it is. The reason why that's so amazing to
+me is because the reason the people on that list, and others, pay a
+price, is because the United States knows that it's only hope for
+continuing to maintain its regimen of secrecy behind which it can
+engage in those radical and corrupt acts, is to intimidate, deter and
+threaten people who are would-be whistleblowers and transparency
+activists from coming forward and doing what it is that they do by
+showing them that they would be subjected to even the most extreme
+punishments and there's nothing anybody can do about it.
 
+[audience applauds]
+
+It's an effective tactic. It works on some people, not because those
+people are cowardly, but because they're rational. It really is the
+case that the United States and the British government are not only
+willing, but able to essentially engage in any conduct, no matter how
+grotesque, no matter how extreme, no matter how lawless, with very
+little opposition that they perceive is enough to make them not want
+to do it. So there are activists who rationally conclude that it's not
+worth the price for me to pay in order to engage in that behaviour.
+That's why they continue to do it. But the paradox is that there are a
+log of other people, I think even more people, who react in exactly
+the opposite way. 
+
+When they see the US and the UK government showing their true face,
+showing the extent to which they're willing to abuse their power, they
+don't become scared or deterred, they become even more emboldened. And
+the reason for that is that when you see that these governments are
+really capable of that abuse of power, you realize that you can no
+longer, in good conscience, stand by and do nothing. It becomes an
+even greater imperative for you to come forward and shine a light on
+what they're doing, and if you listen to any of those whistleblowers
+or activists, they'll all say the same thing.
+
+It was a slow process to realize that the acts in which you engage are
+justified but they were finally convinced of it by the actions of
+these governments themselves. It's a really sweet irony, and I think
+it calls for serious optimism that it is the United States and its
+closest allies who are sowing the seeds of dissent, who are fuelling
+the fire of this activism with their own abusive behaviour.
