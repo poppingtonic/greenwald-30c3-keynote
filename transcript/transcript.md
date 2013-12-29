@@ -422,4 +422,46 @@ learn that their privacy has also been targeted.
 
 Yet, at the same time, the person who sacrificed in order to defend
 their basic human rights, their rights to privacy, is now having his
-own human rights targeted and threatened in recrimination. 
+own human rights targeted and threatened in recrimination. And I
+realize that any country like Germany or France, or Brazil, or any
+other country around the world, to defy the dictates of the United
+States, there's a cost of doing that. But there was an even greater
+cost to Edward Snowden to come forward and do what he did in defence
+of *your* rights, and yet he did it anyway.
+
+[audience applauds]
+
+I think that what's really important to realize is that countries have
+the legal and the international obligations, by virtues of the
+treaties that they've signed, to defend Edward Snowden from political
+persecution, and prevent him from being in a cage for the rest of his
+life, for having shone a light on systematic abuses of privacy, and
+other forms of abuses of secrecy. But they also have the ethical and
+moral obligation as the beneficiaries of his actions, to do what he
+did for them, which is to protect his rights in return.
+
+[audience applauds]
+
+I want to spend a little bit of time talking about one of my favorite
+topics, which is journalism. When I was in Hong Kong, with Laura and
+Ed Snowden, and I've been reflecting on this a lot in the course of
+writing a book that I've been writing over the course of the past
+couple of months about everything that's happened, one of the things I
+realized in looking back on that moment and also in talking to Laura
+about what took place there was that we spent at least as much time
+talking about issues relating to journalism and a free press as we did
+talking about surveillance policy. The reason is that we knew that
+what we were about to do would trigger as many debates over the proper
+role of journalists *vis a vis* the state and other power factions as
+it would the importance of Internet freedom and privacy, and the
+threat of the surveillance state.
+
+We knew, in particular, that one of our most formidable adversaries
+was not simply going to be the intelligence agencies on which we were
+reporting, and who we were trying to expose, but also their most
+loyal, devoted servants, which calls itself the United States and
+British media. 
+
+[audience applauds]
+
+
