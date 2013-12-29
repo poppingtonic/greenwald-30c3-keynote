@@ -375,3 +375,51 @@ these governments themselves. It's a really sweet irony, and I think
 it calls for serious optimism that it is the United States and its
 closest allies who are sowing the seeds of dissent, who are fuelling
 the fire of this activism with their own abusive behaviour.
+
+[audience applauds]
+
+Now, speaking of the attempt to intimidate and deter, and the like, I
+just want to spend a few minutes talking about the current posture of
+the United States government with regard to Edward Snowden. It's
+become extremely clear, at this point, that the US government, from
+the highest levels on down, is completely committed to pursuing only
+one outcome. That outcome is one where Edward Snowden ends up spending
+several decades, if not the rest of his life, in a small cage,
+probably cut off in terms of communication, with the rest of the
+world. And the reason why they're so intent on doing that is not hard
+to see. It's not because they're worried, that society needs to be
+protected from Edward Snowden, and from him repeating these actions. I
+think it's probably a pretty safe bet that Edward Snowden's security
+clearance is more or less permanently revoked. 
+
+[audience laughter]
+
+The reason they're so intent on it is because they cannot allow Edward
+Snowden to live any sort of a decent and free life because they're
+petrified that that will inspire other people to follow his example,
+and to be unwilling to maintain this bond of secrecy when maintaining
+that bond does nothing but hide illegal and damaging conduct from the
+people who are most affected by it. 
+
+And what I find most amazing about that is not that the United States
+government is doing that, that's what they do. It's who they are. What
+I find amazing about it is that there are so many governments around
+the world, including ones that are capable of protecting his human
+rights, and who have been the biggest beneficiaries of his heroic
+revelations, who are willing to stand by and watch his human rights
+get crushed, and be imprisoned for the crime of showing the world
+what's being done to their privacy. 
+
+[audience applauds]
+
+It has really been startling to watch governments, including some of
+the largest in Europe, and their leaders, go out in public and express
+intense indignation over the fact that the privacy of their citizens
+is being systematically breached, and genuine indignation when they
+learn that their privacy has also been targeted.
+
+[audience laughs, applauds]
+
+Yet, at the same time, the person who sacrificed in order to defend
+their basic human rights, their rights to privacy, is now having his
+own human rights targeted and threatened in recrimination. 
