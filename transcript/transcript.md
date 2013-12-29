@@ -260,3 +260,5 @@ taken because they've seen what good for the world can be done by even
 a single individual.
 
 [audience applauds]
+
+
