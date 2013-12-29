@@ -1,7 +1,8 @@
 ## Keynote
 
-Moderator: *So that was your applause, Glenn! Welcome to the 30th Chaos Communication Congress, in Hamburg. The floor is yours!*
+**Moderator:** *So that was your applause, Glenn! Welcome to the 30th Chaos Communication Congress, in Hamburg. The floor is yours!*
 
+**Greenwald:**
 Thank you, thank you very much.
 
 Thank you everybody, for that warm welcome, and thank you as well to
@@ -527,7 +528,7 @@ calls and emails that they intercept from the American
 telecommunications system, even the program that we ended up exposing,
 Boundless Informant, counts with exact mathematical precision, exactly
 the data which he said he is incapable of providing. Or the NSA and
-the GHCQ, which have repeatedly said, that the purpose of these
+the GCHQ, which have repeatedly said, that the purpose of these
 programs is to protect people from terrorism, and to safeguard
 national security, and that they never, unlike those evil thieves,
 engage in spying for economic reasons.
@@ -575,9 +576,77 @@ crimes that he committed because the role of the US media and their
 British counterparts is to be voices for those with the greatest
 power, and to protect their interests and serve them. Everything that
 we've done over the last six months, and everything that we've decided
-over the last month about forming a new media organization is all
-about trying to subvert that process and reanimate, and reinstill the
+over the last month about forming a new media organization, is all
+about trying to subvert that process and reanimate, and reinstill, the
 process of journalism for what it was intended to be, which was as a
 true adversarial force, a check against those with the greatest power.
 
 [audience applauds]
+
+So I just want to close with one last point, which is, the nature of
+the surveillance state that we've reported over the last six months.
+Every time I do an interview, people ask similar questions such as,
+what is the most significant story that you have revealed, or what is
+it that we have learned about the last story that you just published.
+And what I've really begun saying is that there really is only one
+overarching point that all of these stories have revealed. And that
+is, and I say this without the slightest bit of hyperbole or
+melodrama, it's not metaphorical and it's not figurative, it is
+literally true, that the goal of the NSA, and its Five Eyes partners
+in the English-speaking world: Canada, New Zealand, Australia and
+especially the UK, is to eliminate privacy globally. To ensure that there can be no human communications that occur electronically, that evades their surveillance network.
+
+They want to make sure that all forms of human communication, by
+telephone or by Internet, and all online activities, are collected,
+monitored, stored, and analyzed by that agency, and by their allies.
+That means that to describe that is to describe a ubiquitous
+surveillance state. You don't need hyperbole to make that point, and
+you don't need to believe me when I say that that's their goal.
+Document after document within the archive that Edward Snowden
+provided us declare that to be their goal. They are obsessed with
+searching out every small little crevice on the planet where some form
+of communication might take place without their being able to invade
+it.
+
+One of the stories that we're working on now (I used to get in trouble
+when I was at The Guardian for previewing my stories, I'm not at The
+Guardian anymore so I'm going to do it anyway), [audience applauds]
+is: the NSA and the GCHQ are being driven crazy by the idea that you
+can go on an airplane and use certain cellphone devices or Internet
+services and be away from their prying eyes for a few hours at a time.
+They are obsessed with finding ways to invade the systems of online,
+onboard Internet services and mobile phone services. The very idea
+that human beings can communicate, even for a few moments, without
+them being able to collect, and store, analyze, and monitor what it is
+that we're saying, is simply intolerable. That is their institutional
+mandate.
+
+And when I get asked questions, when I do interviews in different
+countries, well, "Why would they want to spy on this official?" Or,
+"Why would they want to spy on Sweden?" Or, "Why would they want to
+target this company here?" The premiss of that question is really
+flawed. The premiss of the question is that the NSA and the GCHQ need
+a specific reason to target somebody for surveillance. That is not how
+they think. They target every form of communication that they can
+possibly get their hands on. And if you think about what individual
+privacy does for us, as human beings, let alone what it does for us on
+a political level, that it really is the thing that lets us explore
+boundaries and engage in creativity, and use the mechanisms of dissent
+without fear. When you think about the world in which privacy is
+allowed to be eliminated, you're really talking about eliminating
+everything that makes it valuable to be a free individual. 
+
+The surveillance state, by its necessity, by its very existence,
+breeds conformity, because when human beings know that they're always
+susceptible to being watched, even if they're not always being
+watched, then the choices that they make are far more constrained, are
+far more limited, cling far more closely to orthodoxy, than when they
+can act in the private realm, and that's precisely why the NSA and
+GCHQ, and the world's most powerful [? 41:49] throughout history now,
+always as their first goal, have the elimination of privacy at the top
+of their list, because it's what ensures that human beings can no
+longer resist the decrees that they're issuing.
+
+[audience applauds]
+
+Well, thank you, once again very much.
