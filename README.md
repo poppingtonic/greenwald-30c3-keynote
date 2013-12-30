@@ -15,6 +15,10 @@ Glenn Greenwald's 30C3 Keynote
 
 * * *
 
+A small discussion on [Hacker News](https://news.ycombinator.com/item?id=6984525).
+
+* * *
+
 Bitcoin Donations: 18HojXGeBZDaKe1XtNgk79vBej6A4WQmJp
 
 * * *
