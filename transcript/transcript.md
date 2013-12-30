@@ -158,7 +158,7 @@ It's much more possible that other countries around the world who are
 truly indignant about the breaches of their privacy security will band
 together and create alternatives, either in terms of infrastructure,
 or legal regimes that will prevent the United States from exercising
-hedgemony over the Internet or make the cost of doing so far too high.
+hegemony over the Internet or make the cost of doing so far too high.
 I think, even more promising is the fact that large private
 corporations, Internet companies and others will start finally paying
 a price for their collaboration with this spying regime. 
