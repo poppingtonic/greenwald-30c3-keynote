@@ -15,7 +15,7 @@ had, which was, "wait, what?"
 [audience laughs]
 
 And the reason is that my cryptographic and hacker skills are not
-exactly world-reknowned. You know, the story has been told many times
+exactly world-renowned. You know, the story has been told many times
 of how I almost lost the biggest national security story in the last
 decade, at least because I found the installation of PGP to be
 insurmountably annoying and difficult.
@@ -158,7 +158,7 @@ It's much more possible that other countries around the world who are
 truly indignant about the breaches of their privacy security will band
 together and create alternatives, either in terms of infrastructure,
 or legal regimes that will prevent the United States from exercising
-hedgemony over the Internet or make the cost of doing so far too high.
+hegemony over the Internet or make the cost of doing so far too high.
 I think, even more promising is the fact that large private
 corporations, Internet companies and others will start finally paying
 a price for their collaboration with this spying regime. 
@@ -292,7 +292,7 @@ the template, and that's [WikiLeaks](https://wikileaks.org).
 
 You know, we didn't completely copy, to the letter, the model of
 WikiLeaks. We modified it a little bit, just like WikiLeaks modified
-what it has decided it's best tactics and strategies, as it went along
+what it has decided its best tactics and strategies, as it went along
 and I'm sure people who come after us will modify what we have done to
 improve on what we have done and to avoid some of our mistakes and
 some of the attacks that have actually been successful. But I think
@@ -375,7 +375,7 @@ justified but they were finally convinced of it by the actions of
 these governments themselves. It's a really sweet irony, and I think
 it calls for serious optimism that it is the United States and its
 closest allies who are sowing the seeds of dissent, who are fuelling
-the fire of this activism with their own abusive behaviour.
+the fire of this activism with their own abusive behavior.
 
 [audience applauds]
 
@@ -644,7 +644,7 @@ And when I get asked questions, when I do interviews in different
 countries, well, "Why would they want to spy on this official?" Or,
 "Why would they want to spy on Sweden?" Or, "Why would they want to
 target this company here?" The premiss of that question is really
-flawed. The premiss of the question is that the NSA and the GCHQ need
+flawed. The premise of the question is that the NSA and the GCHQ need
 a specific reason to target somebody for surveillance. That is not how
 they think. They target every form of communication that they can
 possibly get their hands on. And if you think about what individual
