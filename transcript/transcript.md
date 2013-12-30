@@ -304,7 +304,7 @@ extraordinarily courageous and heroic woman, Sarah Harrison.
 
 There's a huge network of human beings, around the world, who believe
 in this cause, and not only believe in it, but are increasingly
-willing to devoote their energies and their resources, and their time,
+willing to devote their energies and their resources, and their time,
 and to sacrifice for it. There's a reason that that's remarkable, and
 it kind of occurred to me in a telephone call that I had with Laura,
 probably two months or so ago. Although we've communicated every day,
