@@ -276,7 +276,7 @@ Manning) was inspired by the whole litany of whistleblowers and other
 people of conscience who came before her to blow the whistle on
 extreme levels of corruption, wrongdoing and illegality among the
 world's most powerful factions. They in turn were inspired, I'm
-certain, by a person who is one of my greatest political heroes,
+certain, by the person who is one of my greatest political heroes,
 Daniel Ellsberg, who did this forty years ago.
 
 [audience applauds]
@@ -290,10 +290,10 @@ the template, and that's [WikiLeaks](https://wikileaks.org).
 
 [audience applauds]
 
-You know, we didn't copy, to the letter, the model of WikiLeaks. We
-modified it a little bit, just like WikiLeaks modified what it has
-decided where it's best tactics and strategies as it went along and
-I'm sure people who come after us will modify what we have done to
+You know, we didn't completely copy, to the letter, the model of
+WikiLeaks. We modified it a little bit, just like WikiLeaks modified
+what it has decided it's best tactics and strategies, as it went along
+and I'm sure people who come after us will modify what we have done to
 improve on what we have done and to avoid some of our mistakes and
 some of the attacks that have actually been successful. But I think
 the point that is really underscored here, and it was underscored for
