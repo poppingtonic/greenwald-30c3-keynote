@@ -180,14 +180,14 @@ the sanctity of our communications.
 None of them is perfect. None of them is invulnerable, but they all
 pose a serious obstacle to the US government's ability to continue to
 destroy our privacy. And ultimately, the battle over Internet freedom,
-the question of whether or not the Internet will be this tool of
-liberation and democratization and whether it'll become the worst tool
-of human oppression in all of human history will be fought out,
-primarily, I think, on the technological battlefield.
+the question of whether or not the Internet will really be this tool
+of liberation and democratization and whether it'll become the worst
+tool of human oppression in all of human history will be fought out,
+I think, primarily, on the technological battlefield.
 
 The NSA and the US government certainly knows that. That's why Keith
 Alexander gets dressed up in his little costumes, his dad jeans and
-his edgy black shirt and goes to hacker conferences. 
+his edgy black shirt and goes to hacker conferences.
 
 [audience applauds]
 
@@ -196,16 +196,16 @@ Technologies, spend so much effort depicting themselves as these
 kind-of rebellious, pro-civil-libertarian factions, as they spend most
 of their time in secret working hand-in-hand with the intelligence
 community and the CIA to increase their capabilities, because they
-want to recruit younger brainpower onto their side, the side of
-destroying privacy and putting the Internet to use for the world's
-most powerful factions.
+want to recruit particularly younger brainpower onto their side, the
+side of destroying privacy and putting the Internet to use for the
+world's most powerful factions.
 
 What the outcome of this conflict is, what the Internet ultimately
 becomes really is not answerable in any definitive way now. It depends
-so much on what we, as human beings, do. One of the most pressing
-questions is whether people like the ones who are in this room, and
-the people who have the skills that you have, now and in the future,
-will succumb to those temptations, and go to work for the very
+so much on what it is that we, as human beings, do. One of the most
+pressing questions is whether people like the ones who are in this
+room, and the people who have the skills that you have, now and in the
+future, will succumb to those temptations, and go to work for the very
 entities that are attempting to destroy privacy around the world, or
 whether you will put your talents, skills and resources, to defending
 human beings from those invasions, and continuing to create effective
@@ -215,10 +215,10 @@ that power does lie in your hands.
 [audience applauds]
 
 I want to talk about another cause for optimism that I have, which is
-that the pro-privacy alliance a lot healthier and more vibrant. It's a
-lot bigger and stronger than, I think, a lot of us, even who are in
-it, often appreciate and realize. Even more so, it is rapidly growing.
-And, I think, inexorably growing.
+that the pro-privacy alliance is a lot healthier and more vibrant.
+It's a lot bigger and stronger than, I think, a lot of us, even who
+are in it, often appreciate and realize. Even more so, it is rapidly
+growing. And, I think, inexorably growing.
 
 I know, for me, personally, every single thing that I have done, over
 the last six months, on this story, and all of the platforms I've been
@@ -234,19 +234,19 @@ collaborator, Laura Poitras.
 
 You know, Laura doesn't get a huge amount of attention, which is how
 she likes it, but she really does deserve every last recognition,
-honour and award because even though it sounds cliche, it really is
-the case that without her, none of this would have happened.
+honour and award because although it sounds cliche, it really is the
+case that without her, none of this would have happened.
 
 We have talked every single day, virtually, over the last six months.
 We have made almost every decision, certainly every significant one,
 in complete partnership and collaboration. Being able to work with
 somebody who has that high level of understanding about Internet
-security, about strategies for protecting privacy has been completely
+security, about strategies for protecting privacy, has been completely
 indispensable to the success of what we've been able to achieve.
 
 And then, the second person who has been utterly indispensable and
-deserves every last accolade, to share in every last award, is my
-brother of sorts, Edward Snowden.
+deserves every last accolade, and to share in every last award, is my
+[? 14:46] of sorts, Edward Snowden.
 
 [audience applauds]
 
