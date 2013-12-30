@@ -5,7 +5,9 @@ Glenn Greenwald's 30C3 Keynote
 
 **Notes:**
 
-* I've edited the transcript for clarity.
+* The keynote is in [transcript/transcript.md](https://github.com/poppingtonic/greenwald-30c3-keynote/blob/master/transcript/transcript.md).
+
+* I've edited the speech a (tiny) little bit for clarity.
 
 * The last transcribed timestamp appears in the commit message
   alongside the `transcript' folder. My progress so far is thus
