@@ -13,10 +13,6 @@ Glenn Greenwald's 30C3 Keynote
 
 * * *
 
-LICENSE: CC-BY-SA
-
-* * *
-
 Bitcoin Donations: 18HojXGeBZDaKe1XtNgk79vBej6A4WQmJp
 
 * * *
