@@ -15,7 +15,7 @@ had, which was, "wait, what?"
 [audience laughs]
 
 And the reason is that my cryptographic and hacker skills are not
-exactly world-reknowned. You know, the story has been told many times
+exactly world-renowned. You know, the story has been told many times
 of how I almost lost the biggest national security story in the last
 decade, at least because I found the installation of PGP to be
 insurmountably annoying and difficult.
