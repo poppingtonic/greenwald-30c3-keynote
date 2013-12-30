@@ -15,7 +15,7 @@ had, which was, "wait, what?"
 [audience laughs]
 
 And the reason is that my cryptographic and hacker skills are not
-exactly world-reknowned. You know, the story has been told many times
+exactly world-renowned. You know, the story has been told many times
 of how I almost lost the biggest national security story in the last
 decade, at least because I found the installation of PGP to be
 insurmountably annoying and difficult.
@@ -29,7 +29,7 @@ Poitras and Edward Snowden, trying to get up to speed on the basics of
 security technology that I would need in order to report on this
 story. They tried to tutor me in all sorts of programs, and finally
 concluded that the only one, at least at that time, for that moment,
-that I could handle, was [TrueCrypt](https://truecrypt.org). 
+that I could handle, was [TrueCrypt](https://truecrypt.org).
 
 They taught me the basics of TrueCrypt, and when I went to Hong Kong,
 before I would go to sleep, I would play around with TrueCrypt. I kind
@@ -59,7 +59,7 @@ of security technology and privacy technology has become really
 central to everything it is that I do. I really have learned an
 enormous amount, about both its importance and how it functions. And
 I'm far from the only one. I think one of the most significant
-outcomes of the last six months, but one of the most underdiscussed,
+outcomes of the last six months, but one of the most under discussed,
 is how many people now appreciate the importance of protecting the
 security of their communications.
 
@@ -69,7 +69,7 @@ above 50% today, and probably well above 50%. When we talked about
 forming our new media company, we barely spent any time on the
 question. It was simply assumed that we were all going to use the most
 sophisticated encryption that was available to communicate with one
-another. 
+another.
 
 And I think, most encouragingly, whenever I'm contacted by anyone in
 journalism or activism, or any related fields, they either use
@@ -158,15 +158,15 @@ It's much more possible that other countries around the world who are
 truly indignant about the breaches of their privacy security will band
 together and create alternatives, either in terms of infrastructure,
 or legal regimes that will prevent the United States from exercising
-hedgemony over the Internet or make the cost of doing so far too high.
+hegemony over the Internet or make the cost of doing so far too high.
 I think, even more promising is the fact that large private
 corporations, Internet companies and others will start finally paying
-a price for their collaboration with this spying regime. 
+a price for their collaboration with this spying regime.
 
 We've seen that already, when they've been dragged into the light, and
 finally now are forced to account for what it is that they're doing,
 and to realize that their economic interests are imperiled by the
-spying system, exercising their unparallelled power to demand that it
+spying system, exercising their unparalleled power to demand that it
 be reined in. I think that all of those things are very possible as
 serious constraints on the surveillance state.
 
@@ -234,7 +234,7 @@ collaborator, Laura Poitras.
 
 You know, Laura doesn't get a huge amount of attention, which is how
 she likes it, but she really does deserve every last recognition,
-honour and award because although it sounds cliche, it really is the
+honor and award because although it sounds cliche, it really is the
 case that without her, none of this would have happened.
 
 We have talked every single day, virtually, over the last six months.
@@ -267,12 +267,12 @@ critical point, is that none of us, the three of us, did what we did
 in a vacuum. We were all inspired by people who have done similar
 things in the past. I'm absolutely certain that Edward Snowden was
 inspired in all sorts of ways by the heroism and self-sacrifice of
-Chelsea Manning. 
+Chelsea Manning.
 
 [audience applauds and cheers]
 
 And I'm quite certain that, in one way or another, she (Chelsea
-Manning) was inspired by the whole litany of whistleblowers and other
+Manning) was inspired by the whole litany of whistle blowers and other
 people of conscience who came before her to blow the whistle on
 extreme levels of corruption, wrongdoing and illegality among the
 world's most powerful factions. They in turn were inspired, I'm
@@ -283,10 +283,10 @@ Daniel Ellsberg, who did this forty years ago.
 
 Even beyond that, I think it is really important to realize that
 everything that has been allowed to happen over the last six months,
-and I think, any kind of significant leak and whistleblowing of
+and I think, any kind of significant leak and whistle blowing of
 classified information in the digital age, both past and future, owes
 a huge debt of gratitude to the organization which really pioneered
-the template, and that's [WikiLeaks](https://wikileaks.org). 
+the template, and that's [WikiLeaks](https://wikileaks.org).
 
 [audience applauds]
 
@@ -304,7 +304,7 @@ extraordinarily courageous and heroic woman, Sarah Harrison.
 
 There's a huge network of human beings, around the world, who believe
 in this cause, and not only believe in it, but are increasingly
-willing to devoote their energies and their resources, and their time,
+willing to devote their energies and their resources, and their time,
 and to sacrifice for it. There's a reason that that's remarkable, and
 it kind of occurred to me in a telephone call that I had with Laura,
 probably two months or so ago. Although we've communicated every day,
@@ -312,7 +312,7 @@ we've almost never communicated by telephone. One of the few
 exceptions was we were going to speak at an event at the [Electronic
 Frontier Foundation](https://www.eff.org) and we got on the phone the
 night before to sort-of talk about what ground she would cover, and
-what ground I would cover. 
+what ground I would cover.
 
 What she said to me is, "You know, it's amazing if you think about
 it." She went through the list of people who have devoted themselves
@@ -341,7 +341,7 @@ me is because the reason the people on that list, and others like
 them, pay a price, is because the United States knows that it's only
 hope for continuing to maintain its regimen of secrecy, behind which
 it can engage in those radical and corrupt acts, is to intimidate,
-deter and threaten people who are would-be whistleblowers and
+deter and threaten people who are would-be whistle blowers and
 transparency activists from coming forward and doing what it is that
 they do by showing them that they would be subjected to even the most
 extreme punishments and there's nothing anybody can do about it.
@@ -355,7 +355,7 @@ willing, but able to essentially engage in any conduct, no matter how
 grotesque, no matter how extreme, no matter how lawless, with very
 little opposition that they perceive is enough to make them not want
 to do it. So there are activists who rationally conclude that it's not
-worth the price for me to pay in order to engage in that behaviour.
+worth the price for me to pay in order to engage in that behavior.
 That's why they continue to do it. But the paradox is that there are a
 lot of other people, I think even more people, who react in exactly
 the opposite way.
@@ -368,14 +368,14 @@ really capable of that level of abuse of power, you realize that you
 can no longer, in good conscience, stand by and do nothing. It becomes
 an even greater imperative for you to come forward and shine a light
 on what they're doing, and if you listen to any of those
-whistleblowers or activists, they'll all say the same thing.
+whistle blowers or activists, they'll all say the same thing.
 
 It was a slow process to realize that the acts in which you engage are
 justified but they were finally convinced of it by the actions of
 these governments themselves. It's a really sweet irony, and I think
 it calls for serious optimism that it is the United States and its
-closest allies who are sowing the seeds of dissent, who are fuelling
-the fire of this activism with their own abusive behaviour.
+closest allies who are sowing the seeds of dissent, who are fueling
+the fire of this activism with their own abusive behavior.
 
 [audience applauds]
 
@@ -391,7 +391,7 @@ world. And the reason why they're so intent on doing that is not hard
 to see. It's not because they're worried, that society needs to be
 protected from Edward Snowden, and from him repeating these actions. I
 think it's probably a pretty safe bet that Edward Snowden's security
-clearance is more or less permanently revoked. 
+clearance is more or less permanently revoked.
 
 [audience laughter]
 
@@ -400,7 +400,7 @@ Snowden to live any sort of a decent and free life because they're
 petrified that that will inspire other people to follow his example,
 and to be unwilling to maintain this bond of secrecy when maintaining
 that bond does nothing but hide illegal and damaging conduct from the
-people who are most affected by it. 
+people who are most affected by it.
 
 And what I find most amazing about that is not that the United States
 government is doing that, that's what they do. It's who they are. What
@@ -428,7 +428,7 @@ realize that for any country like Germany or France, or Brazil, or any
 other country around the world, to defy the dictates of the United
 States, that there's a cost of doing that. But there was an even
 greater cost to Edward Snowden to come forward and do what he did in
-defence of *your* rights, and yet he did it anyway.
+defense of *your* rights, and yet he did it anyway.
 
 [audience applauds]
 
@@ -461,7 +461,7 @@ We knew, in particular, that one of our most formidable adversaries
 was not simply going to be the intelligence agencies on which we were
 reporting, and who we were trying to expose, but also their most
 loyal, devoted servants, which calls itself the United States and
-British media. 
+British media.
 
 [audience applauds]
 
@@ -470,7 +470,7 @@ And so we spent a great deal of time strategizing about it, we
 resolved that we were going to have to be very disruptive of the
 status quo. Not only the surveillance and political status quo, but
 also the journalistic status quo. And, I think, one of the ways we can
-see what it is we were targeting these and the behaviour of the media
+see what it is we were targeting these and the behavior of the media
 over the past six months since these revelations have emerged almost
 entirely without them and despite them.
 
@@ -505,7 +505,7 @@ something like that?"
 
 [audience laughs, applauds]
 
-And that is not abberational. It really is the central view of,
+And that is not aberrational. It really is the central view of,
 certainly, American and British media stars, that when, especially
 people with medals on their chests, who are called generals, but also
 high-ranking officials in the government, make claims, that those
@@ -589,7 +589,7 @@ the idea that Director of National Intelligence James Clapper ought to
 be subject to the rule of law and be prosecuted and imprisoned for the
 crimes that he committed because the role of the US media and their
 British counterparts is to be voices for those with the greatest
-power, and to protect their interests and serve them. 
+power, and to protect their interests and serve them.
 
 Everything that we've done over the last six months, and everything
 that we've decided over the last month about forming a new media
@@ -606,7 +606,7 @@ Every time I do an interview, people ask similar questions such as,
 what is the most significant story that you have revealed, or what is
 it that we have learned about the last story that you just published.
 And what I've really begun saying is that there really is only one
-overarching point that all of these stories have revealed. 
+overarching point that all of these stories have revealed.
 
 And that is, and I say this without the slightest bit of hyperbole or
 melodrama, it's not metaphorical and it's not figurative, it is
@@ -643,8 +643,8 @@ is simply intolerable. That is their institutional mandate.
 And when I get asked questions, when I do interviews in different
 countries, well, "Why would they want to spy on this official?" Or,
 "Why would they want to spy on Sweden?" Or, "Why would they want to
-target this company here?" The premiss of that question is really
-flawed. The premiss of the question is that the NSA and the GCHQ need
+target this company here?" The premise of that question is really
+flawed. The premise of the question is that the NSA and the GCHQ need
 a specific reason to target somebody for surveillance. That is not how
 they think. They target every form of communication that they can
 possibly get their hands on. And if you think about what individual
@@ -653,7 +653,7 @@ a political level, that it really is the thing that lets us explore
 boundaries and engage in creativity, and use the mechanisms of dissent
 without fear. When you think about the world in which privacy is
 allowed to be eliminated, you're really talking about eliminating
-everything that makes it valuable to be a free individual. 
+everything that makes it valuable to be a free individual.
 
 The surveillance state, by its necessity, by its very existence,
 breeds conformity, because when human beings know that they're always
