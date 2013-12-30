@@ -320,35 +320,35 @@ to transparency and the price that they have paid. She said Edward
 Snowden is stuck in Russia facing thirty years in prison, Chelsea
 Manning is in prison, Aaron Swartz committed suicide. People like
 Jeremy Hammond and Barret Brown are the subjects of grotesquely
-overzealous prosecution by virtue of the acts of transparency they've
+overzealous prosecutions by virtue of the acts of transparency they've
 engaged in. Even people like Jim Risen, who is with an organization
 like the New York Times, faces the possibility of prison for stories
-that he's published. 
+that he's published.
 
 Laura and I have been advised by countless lawyers that it is not safe
 for us to even travel to our own country, and she said, "It's really a
 sign of how sick our political future has become, that the price for
 bringing transparency to the government, and for doing the job of the
-media, and the Congress, that they're not doing, is an extreme form of
-punishment.
+media, and the Congress, that they're not doing, is this extreme form
+of punishment."
 
 You know, she was right, and she had a good point. I had a hard time
 disagreeing with the thing that anybody would. But I said, you know,
 there's actually another interesting point that that list reveals. The
 thing that's so interesting to me about that list is that it actually
 keeps growing, as long as it is. The reason why that's so amazing to
-me is because the reason the people on that list, and others, pay a
-price, is because the United States knows that it's only hope for
-continuing to maintain its regimen of secrecy behind which it can
-engage in those radical and corrupt acts, is to intimidate, deter and
-threaten people who are would-be whistleblowers and transparency
-activists from coming forward and doing what it is that they do by
-showing them that they would be subjected to even the most extreme
-punishments and there's nothing anybody can do about it.
+me is because the reason the people on that list, and others like
+them, pay a price, is because the United States knows that it's only
+hope for continuing to maintain its regimen of secrecy, behind which
+it can engage in those radical and corrupt acts, is to intimidate,
+deter and threaten people who are would-be whistleblowers and
+transparency activists from coming forward and doing what it is that
+they do by showing them that they would be subjected to even the most
+extreme punishments and there's nothing anybody can do about it.
 
 [audience applauds]
 
-It's an effective tactic. It works on some people, not because those
+It's an effective tactic. It works for some people, not because those
 people are cowardly, but because they're rational. It really is the
 case that the United States and the British government are not only
 willing, but able to essentially engage in any conduct, no matter how
@@ -357,18 +357,18 @@ little opposition that they perceive is enough to make them not want
 to do it. So there are activists who rationally conclude that it's not
 worth the price for me to pay in order to engage in that behaviour.
 That's why they continue to do it. But the paradox is that there are a
-log of other people, I think even more people, who react in exactly
-the opposite way. 
+lot of other people, I think even more people, who react in exactly
+the opposite way.
 
 When they see the US and the UK government showing their true face,
 showing the extent to which they're willing to abuse their power, they
 don't become scared or deterred, they become even more emboldened. And
 the reason for that is that when you see that these governments are
-really capable of that abuse of power, you realize that you can no
-longer, in good conscience, stand by and do nothing. It becomes an
-even greater imperative for you to come forward and shine a light on
-what they're doing, and if you listen to any of those whistleblowers
-or activists, they'll all say the same thing.
+really capable of that level of abuse of power, you realize that you
+can no longer, in good conscience, stand by and do nothing. It becomes
+an even greater imperative for you to come forward and shine a light
+on what they're doing, and if you listen to any of those
+whistleblowers or activists, they'll all say the same thing.
 
 It was a slow process to realize that the acts in which you engage are
 justified but they were finally convinced of it by the actions of
@@ -381,12 +381,12 @@ the fire of this activism with their own abusive behaviour.
 
 Now, speaking of the attempt to intimidate and deter, and the like, I
 just want to spend a few minutes talking about the current posture of
-the United States government with regard to Edward Snowden. It's
+the United States government, with regard to Edward Snowden. It's
 become extremely clear, at this point, that the US government, from
 the highest levels on down, is completely committed to pursuing only
 one outcome. That outcome is one where Edward Snowden ends up spending
 several decades, if not the rest of his life, in a small cage,
-probably cut off in terms of communication, with the rest of the
+probably cut off, in terms of communication, with the rest of the
 world. And the reason why they're so intent on doing that is not hard
 to see. It's not because they're worried, that society needs to be
 protected from Edward Snowden, and from him repeating these actions. I
@@ -407,9 +407,9 @@ government is doing that, that's what they do. It's who they are. What
 I find amazing about it is that there are so many governments around
 the world, including ones that are capable of protecting his human
 rights, and who have been the biggest beneficiaries of his heroic
-revelations, who are willing to stand by and watch his human rights
-get crushed, and be imprisoned for the crime of showing the world
-what's being done to their privacy. 
+revelations, who are willing to stand by and watch his human rights be
+crushed, him be imprisoned for the crime of showing the world what's
+being done to their privacy.
 
 [audience applauds]
 
@@ -424,11 +424,11 @@ learn that their privacy has also been targeted.
 Yet, at the same time, the person who sacrificed in order to defend
 their basic human rights, their rights to privacy, is now having his
 own human rights targeted and threatened in recrimination. And I
-realize that any country like Germany or France, or Brazil, or any
+realize that for any country like Germany or France, or Brazil, or any
 other country around the world, to defy the dictates of the United
-States, there's a cost of doing that. But there was an even greater
-cost to Edward Snowden to come forward and do what he did in defence
-of *your* rights, and yet he did it anyway.
+States, that there's a cost of doing that. But there was an even
+greater cost to Edward Snowden to come forward and do what he did in
+defence of *your* rights, and yet he did it anyway.
 
 [audience applauds]
 
@@ -469,7 +469,10 @@ British media.
 And so we spent a great deal of time strategizing about it, we
 resolved that we were going to have to be very disruptive of the
 status quo. Not only the surveillance and political status quo, but
-also the journalistic status quo. And, I think, one of the ways we can see what it is we were targeting these and the behaviour of the media over the past six months since these revelations have emerged almost entirely without them and despite them. 
+also the journalistic status quo. And, I think, one of the ways we can
+see what it is we were targeting these and the behaviour of the media
+over the past six months since these revelations have emerged almost
+entirely without them and despite them.
 
 One of the more remarkable things that has happened to me is I gave an
 interview, three weeks or so, or a month ago, on BBC, it was on this
@@ -486,23 +489,31 @@ true.
 
 [audience applauds]
 
-When I said that, he interrupted me, (and I'm sorry, I don't do pompous British accents well, so you'll just have to transpose it into your own imagination onto what I'm saying), and he said, "I just need to stop you, you have said something so remarkable!" He was like a Victorian priest scandalized by seeing a woman pull up her skirt a little bit over her ankles.
+When I said that, he interrupted me, (and I'm sorry, I don't do
+pompous British accents well, so you'll just have to transpose it into
+your own imagination onto what I'm saying), and he said, "I just need
+to stop you, you have said something so remarkable!" He was like a
+Victorian priest scandalized by seeing a woman pull up her skirt a
+little bit above her ankles.
 
 [audience laughs]
 
-He said, "I just cannot believe that you would suggest that senior officials, generals in the United States and British government are actually making false claims to the public! How can you possibly say something like that?"
+He said, "I just cannot believe that you would suggest that senior
+officials, generals in the United States and British government, are
+actually making false claims to the public! How can you possibly say
+something like that?"
 
 [audience laughs, applauds]
 
 And that is not abberational. It really is the central view of,
 certainly, American and British media stars, that when, especially
 people with medals on their chests, who are called generals, but also
-high-ranking officials in the government make claims, that those
+high-ranking officials in the government, make claims, that those
 claims are presumptively treated as true without evidence, and that
-it's almost immoral to call them into question, or question their
+it's almost immoral to call them into question, or to question their
 veracity.
 
-Obviously, we went through the Iraq war, which was two very sane
+Obviously, we went through the Iraq war, which those two very sane
 governments specifically and deliberately lied, repeatedly, to their
 people, over the course of two years, to justify an aggressive war
 that destroyed a country of 26 million people. But we've seen it
@@ -514,10 +525,10 @@ James Clapper. That was the document that revealed that the Obama
 administration had succeeded in convincing a secret court to [? 32:47]
 phone companies to turn over, to the NSA, every single phone record,
 of every single telephone call, local and international, of every
-single American, even though that National Security official, before
-the Senate, just months earlier, was asked, "Does the NSA collect
-whole data about the communications of Americans?" and he answered,
-"No, sir," what we all now know is a complete lie.
+single American, even though that National Security official, James
+Clapper, before the Senate, just months earlier, was asked, "Does the
+NSA collect whole data about the communications of Americans?" and he
+answered, "No, sir," what we all now know is a complete lie.
 
 There are other lies that the NSA and the US government's top
 officials have told. And by 'lie' I mean, advisedly, things they know
@@ -527,59 +538,65 @@ said that they are incapable of accounting for the exact number of
 calls and emails that they intercept from the American
 telecommunications system, even the program that we ended up exposing,
 Boundless Informant, counts with exact mathematical precision, exactly
-the data which he said he is incapable of providing. Or the NSA and
-the GCHQ, which have repeatedly said, that the purpose of these
-programs is to protect people from terrorism, and to safeguard
-national security, and that they never, unlike those evil thieves,
-engage in spying for economic reasons.
+the data that he said he is incapable of providing. Or the NSA and the
+GCHQ, which have repeatedly said, that the purpose of these programs
+is to protect people from terrorism, and to safeguard national
+security, and that they never, unlike those evil thieves, engage in
+spying for economic reasons.
 
 And yet, report after report that we revealed, from spying on the
-Brazilian oil giant, Petrobras, to the spying on [? 34:19 -> 34:22] at
-economic summits where economic accords were negotiated, to energy
-companies around the world in Europe, Asia and Latin America, just
-completely negate these claims, prove that they are lies. And we have
-President Obama, who repeatedly says things like, "We cannot, and do
-not, spy on the [? 34:41 -> 34:42] communications of Americans without
-warrants, even though the 2008 law that was enacted by the Congress,
-of which it was a part, had [? 34:49 -> 34:50] the US government to
-ease up on American [? 34:53] without warrants. 
+Brazilian oil giant, Petrobras, to the spying on [? 34:19 -> 34:22]
+American states at economic summits where economic accords were
+negotiated, to energy companies around the world in Europe, Asia and
+Latin America, just completely negate these claims, prove that they
+are lies. And then we have President Obama, who repeatedly says things
+like, "We cannot, and do not, spy on the [? 34:41 -> 34:42]
+communications of Americans without warrants, even though the 2008 law
+that was enacted by the Congress, of which it was a part, had [? 34:49
+-> 34:50] the US government to ease up on American [? 34:53] without
+warrants.
 
 And what you see here, is real lying. And yet, at the same time, the
 same media that sees it acts scandalized if you suggest that their
 claims should not be taken at face value, without evidence, because
 their role is not to be adversarial. Their role is to be loyal
-spokespeople to those powerful factions that pretend to exercise
-oversight. 
+spokespeople to those powerful factions that they pretend to exercise
+oversight.
 
 [audience applauds]
 
-Just one more point on that, to understand just how the American and
-British media function. You can pretty much turn on the TV, at any
-moment, or open an Internet website, and see very brave American
-journalists calling Edward Snowden a criminal and demanding that he be
-extradited to the United States, prosecuted and imprisoned. They're
-very very brave when it comes to declaring people who are scorned in
-Washington, and who have no power, and have become marginalized. They're very brave in condemning them, standing up to them, and demanding that the rule of law be applied to them faithfully. "He broke the law, he must pay the consequences."
+Just one more point on that, which is to understand just how the
+American and British media function. You can pretty much turn on the
+TV, at any moment, or open an Internet website, and see very brave
+American journalists calling Edward Snowden a criminal and demanding
+that he be extradited to the United States, and prosecuted and
+imprisoned. They're very very brave when it comes to declaring people
+who are scorned in Washington, and who have no power, and have become
+marginalized. They're very brave in condemning them, standing up to
+them, and demanding that the rule of law be applied to them
+faithfully. "He broke the law, he must pay the consequences."
 
 And yet, the top national security official of the United States
 government went to the senate and lied to their faces, everybody now
-knows, which is at least as serious of a crime as anything Edward
+knows, which is at least much of a serious crime as anything Edward
 Snowden is accused of.
 
 [audience applauds]
 
-You will be very hard pressed to find a single one of those brave,
-intrepid journalists, ever thinking about, let alone expressing the
-idea that Director of National Intelligence James Clapper ought to be
-subject to the rule of law and be prosecuted and imprisoned for the
+You will be very hard pressed to find even a single one of those
+brave, intrepid journalists, ever thinking about, let alone expressing
+the idea that Director of National Intelligence James Clapper ought to
+be subject to the rule of law and be prosecuted and imprisoned for the
 crimes that he committed because the role of the US media and their
 British counterparts is to be voices for those with the greatest
-power, and to protect their interests and serve them. Everything that
-we've done over the last six months, and everything that we've decided
-over the last month about forming a new media organization, is all
-about trying to subvert that process and reanimate, and reinstill, the
-process of journalism for what it was intended to be, which was as a
-true adversarial force, a check against those with the greatest power.
+power, and to protect their interests and serve them. 
+
+Everything that we've done over the last six months, and everything
+that we've decided over the last month about forming a new media
+organization, is all about trying to subvert that process and
+reanimate, and reinstill the process of journalism for what it was
+intended to be, which was as a true adversarial force, a check against
+those with the greatest power.
 
 [audience applauds]
 
@@ -589,12 +606,15 @@ Every time I do an interview, people ask similar questions such as,
 what is the most significant story that you have revealed, or what is
 it that we have learned about the last story that you just published.
 And what I've really begun saying is that there really is only one
-overarching point that all of these stories have revealed. And that
-is, and I say this without the slightest bit of hyperbole or
+overarching point that all of these stories have revealed. 
+
+And that is, and I say this without the slightest bit of hyperbole or
 melodrama, it's not metaphorical and it's not figurative, it is
 literally true, that the goal of the NSA, and its Five Eyes partners
 in the English-speaking world: Canada, New Zealand, Australia and
-especially the UK, is to eliminate privacy globally. To ensure that there can be no human communications that occur electronically, that evades their surveillance network.
+especially the UK, is to eliminate privacy globally. To ensure that
+there can be no human communications that occur electronically, that
+evades their surveillance network.
 
 They want to make sure that all forms of human communication, by
 telephone or by Internet, and all online activities, are collected,
@@ -604,22 +624,21 @@ surveillance state. You don't need hyperbole to make that point, and
 you don't need to believe me when I say that that's their goal.
 Document after document within the archive that Edward Snowden
 provided us declare that to be their goal. They are obsessed with
-searching out every small little crevice on the planet where some form
+searching out any small little crevice on the planet where some form
 of communication might take place without their being able to invade
 it.
 
 One of the stories that we're working on now (I used to get in trouble
 when I was at The Guardian for previewing my stories, I'm not at The
-Guardian anymore so I'm going to do it anyway), [audience applauds]
-is: the NSA and the GCHQ are being driven crazy by the idea that you
-can go on an airplane and use certain cellphone devices or Internet
-services and be away from their prying eyes for a few hours at a time.
-They are obsessed with finding ways to invade the systems of online,
-onboard Internet services and mobile phone services. The very idea
-that human beings can communicate, even for a few moments, without
-them being able to collect, and store, analyze, and monitor what it is
-that we're saying, is simply intolerable. That is their institutional
-mandate.
+Guardian anymore so I'm going to do it anyway), is: the NSA and the
+GCHQ are being driven crazy by the idea that you can go on an airplane
+and use certain cellphone devices or Internet services and be away
+from their prying eyes for a few hours at a time. They are obsessed
+with finding ways to invade the systems of online, onboard Internet
+services and mobile phone services. The very idea that human beings
+can communicate, even for a few moments, without them being able to
+collect, and store, analyze, and monitor what it is that we're saying,
+is simply intolerable. That is their institutional mandate.
 
 And when I get asked questions, when I do interviews in different
 countries, well, "Why would they want to spy on this official?" Or,
@@ -639,13 +658,13 @@ everything that makes it valuable to be a free individual.
 The surveillance state, by its necessity, by its very existence,
 breeds conformity, because when human beings know that they're always
 susceptible to being watched, even if they're not always being
-watched, then the choices that they make are far more constrained, are
-far more limited, cling far more closely to orthodoxy, than when they
-can act in the private realm, and that's precisely why the NSA and
-GCHQ, and the world's most powerful [? 41:49] throughout history now,
-always as their first goal, have the elimination of privacy at the top
-of their list, because it's what ensures that human beings can no
-longer resist the decrees that they're issuing.
+watched, the choices that they make are far more constrained, are far
+more limited, cling far more closely to orthodoxy, than when they can
+act in the private realm, and that's precisely why the NSA and GCHQ,
+and the world's most powerful [? 41:49] throughout history now, always
+as their first goal, have the elimination of privacy at the top of
+their list, because it's what ensures that human beings can no longer
+resist the decrees that they're issuing.
 
 [audience applauds]
 
