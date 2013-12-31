@@ -246,7 +246,7 @@ indispensable to the success of what we've been able to achieve.
 
 And then, the second person who has been utterly indispensable and
 deserves every last accolade, and to share in every last award, is my
-[? 14:46] of sorts, Edward Snowden.
+[? 14:46] source, Edward Snowden.
 
 [audience applauds]
 
