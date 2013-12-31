@@ -513,8 +513,6 @@ claims are presumptively treated as true without evidence, and that
 it's almost immoral to call them into question, or to question their
 veracity.
 
-<<<<<<< HEAD
-
 Obviously, we went through the Iraq war, in which those two very same
 governments specifically and deliberately lied, repeatedly, to their
 people, over the course of two years, to justify an aggressive war
