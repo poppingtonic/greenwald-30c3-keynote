@@ -513,7 +513,7 @@ claims are presumptively treated as true without evidence, and that
 it's almost immoral to call them into question, or to question their
 veracity.
 
-Obviously, we went through the Iraq war, which those two very same
+Obviously, we went through the Iraq war, in which those two very same
 governments specifically and deliberately lied, repeatedly, to their
 people, over the course of two years, to justify an aggressive war
 that destroyed a country of 26 million people. But we've seen it
