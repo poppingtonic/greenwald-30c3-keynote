@@ -643,8 +643,8 @@ is simply intolerable. That is their institutional mandate.
 And when I get asked questions, when I do interviews in different
 countries, well, "Why would they want to spy on this official?" Or,
 "Why would they want to spy on Sweden?" Or, "Why would they want to
-target this company here?" The premiss of that question is really
-flawed. The premiss of the question is that the NSA and the GCHQ need
+target this company here?" The premise of that question is really
+flawed. The premise of the question is that the NSA and the GCHQ need
 a specific reason to target somebody for surveillance. That is not how
 they think. They target every form of communication that they can
 possibly get their hands on. And if you think about what individual
