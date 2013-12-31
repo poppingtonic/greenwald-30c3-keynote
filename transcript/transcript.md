@@ -522,7 +522,7 @@ that Edward Snowden ever showed me was one that he explained would
 reveal unquestionable lying, by the senior national intelligence
 official of President Obama, the Director of National Intelligence,
 James Clapper. That was the document that revealed that the Obama
-administration had succeeded in convincing a secret court to [? 32:47]
+administration had succeeded in convincing a secret court to compel
 phone companies to turn over, to the NSA, every single phone record,
 of every single telephone call, local and international, of every
 single American, even though that National Security official, James
