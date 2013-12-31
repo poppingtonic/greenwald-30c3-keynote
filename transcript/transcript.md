@@ -81,7 +81,7 @@ It's a really remarkable sea-change, even from the middle of last
 year, when I would talk to some of the leading national security
 journalists, *in the world*, who were working on some of the most
 sensitive information, and virtually none of them knew what PGP or OTR
-or any other of the leading privacy technologies were, let alone how
+or any any of the other leading privacy technologies were, let alone how
 to use them. It's really encouraging to see this technology spreading
 so pervasively.
 
