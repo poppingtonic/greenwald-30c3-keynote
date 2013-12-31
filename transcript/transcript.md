@@ -115,7 +115,7 @@ the US government did in response was that they said, "Well, we're
 going to engage in all of these reforms, that will safeguard these
 powers. We're going to create a special court that the government
 needs to go to to get permission before they can target people with
-surveillance.
+surveillance."
 
 That sounded great, but then they created the court in the most warped
 way possible. It's a secret court, where only the government gets to
