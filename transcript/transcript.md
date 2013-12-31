@@ -338,7 +338,7 @@ there's actually another interesting point that that list reveals. The
 thing that's so interesting to me about that list is that it actually
 keeps growing, as long as it is. The reason why that's so amazing to
 me is because the reason the people on that list, and others like
-them, pay a price, is because the United States knows that it's only
+them, pay a price, is because the United States knows that its only
 hope for continuing to maintain its regimen of secrecy, behind which
 it can engage in those radical and corrupt acts, is to intimidate,
 deter and threaten people who are would-be whistleblowers and
