@@ -545,8 +545,8 @@ security, and that they never, unlike those evil thieves, engage in
 spying for economic reasons.
 
 And yet, report after report that we revealed, from spying on the
-Brazilian oil giant, Petrobras, to the spying on [? 34:19 -> 34:22]
-American states at economic summits where economic accords were
+Brazilian oil giant, Petrobras, to the spying on the Organization of American 
+States and economic summits where economic accords were
 negotiated, to energy companies around the world in Europe, Asia and
 Latin America, just completely negate these claims, prove that they
 are lies. And then we have President Obama, who repeatedly says things
