@@ -17,7 +17,7 @@ had, which was, "wait, what?"
 And the reason is that my cryptographic and hacker skills are not
 exactly world-renowned. You know, the story has been told many times
 of how I almost lost the biggest national security story in the last
-decade, at least because I found the installation of PGP to be
+decade, at least in part because I found the installation of PGP to be
 insurmountably annoying and difficult.
 
 [audience applauds]
@@ -59,7 +59,7 @@ of security technology and privacy technology has become really
 central to everything it is that I do. I really have learned an
 enormous amount, about both its importance and how it functions. And
 I'm far from the only one. I think one of the most significant
-outcomes of the last six months, but one of the most underdiscussed,
+outcomes of the last six months, but one of the most under-discussed,
 is how many people now appreciate the importance of protecting the
 security of their communications.
 
@@ -81,7 +81,7 @@ It's a really remarkable sea-change, even from the middle of last
 year, when I would talk to some of the leading national security
 journalists, *in the world*, who were working on some of the most
 sensitive information, and virtually none of them knew what PGP or OTR
-or any other of the leading privacy technologies were, let alone how
+or any any of the other leading privacy technologies were, let alone how
 to use them. It's really encouraging to see this technology spreading
 so pervasively.
 
@@ -147,7 +147,7 @@ programs slightly more palatable from a public perspective, and in
 many cases, intensify the powers of the surveillance state, rather than
 reining them in in any meaningful way.
 
-So the answer to whether we're or not going to have meaningful reform
+So the answer to whether or not we're going to have meaningful reform
 definitely does not lie in the typical processes of democratic
 accountability that we're all taught to respect. But they do lie
 elsewhere. It is possible that there will be courts that will impose
@@ -166,7 +166,7 @@ a price for their collaboration with this spying regime.
 We've seen that already, when they've been dragged into the light, and
 finally now are forced to account for what it is that they're doing,
 and to realize that their economic interests are imperiled by the
-spying system, exercising their unparallelled power to demand that it
+spying system, exercising their unparalleled power to demand that it
 be reined in. I think that all of those things are very possible as
 serious constraints on the surveillance state.
 
@@ -234,7 +234,7 @@ collaborator, Laura Poitras.
 
 You know, Laura doesn't get a huge amount of attention, which is how
 she likes it, but she really does deserve every last recognition,
-honour and award because although it sounds cliche, it really is the
+honor and award because although it sounds cliche, it really is the
 case that without her, none of this would have happened.
 
 We have talked every single day, virtually, over the last six months.
@@ -374,8 +374,8 @@ It was a slow process to realize that the acts in which you engage are
 justified but they were finally convinced of it by the actions of
 these governments themselves. It's a really sweet irony, and I think
 it calls for serious optimism that it is the United States and its
-closest allies who are sowing the seeds of dissent, who are fuelling
-the fire of this activism with their own abusive behaviour.
+closest allies who are sowing the seeds of dissent, who are fueling
+the fire of this activism with their own abusive behavior.
 
 [audience applauds]
 
@@ -428,7 +428,7 @@ realize that for any country like Germany or France, or Brazil, or any
 other country around the world, to defy the dictates of the United
 States, that there's a cost of doing that. But there was an even
 greater cost to Edward Snowden to come forward and do what he did in
-defence of *your* rights, and yet he did it anyway.
+defense of *your* rights, and yet he did it anyway.
 
 [audience applauds]
 
@@ -470,7 +470,7 @@ And so we spent a great deal of time strategizing about it, we
 resolved that we were going to have to be very disruptive of the
 status quo. Not only the surveillance and political status quo, but
 also the journalistic status quo. And, I think, one of the ways we can
-see what it is we were targeting these and the behaviour of the media
+see what it is we were targeting these and the behavior of the media
 over the past six months since these revelations have emerged almost
 entirely without them and despite them.
 
@@ -512,7 +512,6 @@ high-ranking officials in the government, make claims, that those
 claims are presumptively treated as true without evidence, and that
 it's almost immoral to call them into question, or to question their
 veracity.
-
 
 Obviously, we went through the Iraq war, in which those two very same
 governments specifically and deliberately lied, repeatedly, to their
@@ -635,7 +634,7 @@ Guardian anymore so I'm going to do it anyway), is: the NSA and the
 GCHQ are being driven crazy by the idea that you can go on an airplane
 and use certain cellphone devices or Internet services and be away
 from their prying eyes for a few hours at a time. They are obsessed
-with finding ways to invade the systems of online, onboard Internet
+with finding ways to invade the systems of online, on-board Internet
 services and mobile phone services. The very idea that human beings
 can communicate, even for a few moments, without them being able to
 collect, and store, analyze, and monitor what it is that we're saying,
