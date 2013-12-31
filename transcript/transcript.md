@@ -545,16 +545,16 @@ security, and that they never, unlike those evil thieves, engage in
 spying for economic reasons.
 
 And yet, report after report that we revealed, from spying on the
-Brazilian oil giant, Petrobras, to the spying on the Organization of American 
-States and economic summits where economic accords were
+Brazilian oil giant, Petrobras, to the spying on the Organization of
+American States and economic summits where economic accords were
 negotiated, to energy companies around the world in Europe, Asia and
 Latin America, just completely negate these claims, prove that they
 are lies. And then we have President Obama, who repeatedly says things
-like, "We cannot, and do not, spy on the [? 34:41 -> 34:42]
-communications of Americans without warrants, even though the 2008 law
-that was enacted by the Congress, of which it was a part, had [? 34:49
--> 34:50] the US government to ease up on American [? 34:53] without
-warrants.
+like, "We cannot, and do not, spy or eavesdrop on the communications
+of Americans without warrants, even though the 2008 law that was
+enacted by the Congress, of which he was a part, had [? 34:49 ->
+34:50] the US government to eavesdrop American's communications
+without warrants.
 
 And what you see here, is real lying. And yet, at the same time, the
 same media that sees it acts scandalized if you suggest that their
