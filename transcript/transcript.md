@@ -319,7 +319,7 @@ it." She went through the list of people who have devoted themselves
 to transparency and the price that they have paid. She said Edward
 Snowden is stuck in Russia facing thirty years in prison, Chelsea
 Manning is in prison, Aaron Swartz committed suicide. People like
-Jeremy Hammond and Barret Brown are the subjects of grotesquely
+Jeremy Hammond and Barrett Brown are the subjects of grotesquely
 overzealous prosecutions by virtue of the acts of transparency they've
 engaged in. Even people like Jim Risen, who is with an organization
 like the New York Times, faces the possibility of prison for stories
@@ -505,7 +505,7 @@ something like that?"
 
 [audience laughs, applauds]
 
-And that is not abberational. It really is the central view of,
+And that is not aberrational. It really is the central view of,
 certainly, American and British media stars, that when, especially
 people with medals on their chests, who are called generals, but also
 high-ranking officials in the government, make claims, that those
