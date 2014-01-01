@@ -333,10 +333,10 @@ media, and the Congress, that they're not doing, is this extreme form
 of punishment."
 
 You know, she was right, and she had a good point. I had a hard time
-disagreeing with the thing that anybody would. But I said, you know,
+disagreeing with it; I think anybody would. But I said, you know,
 there's actually another interesting point that that list reveals. The
-thing that's so interesting to me about that list is that it actually
-keeps growing, as long as it is. The reason why that's so amazing to
+thing that's so interesting to me about that list is that it's actually
+as long as it is, and keeps growing. The reason why that's so amazing to
 me is because the reason the people on that list, and others like
 them, pay a price, is because the United States knows that it's only
 hope for continuing to maintain its regimen of secrecy, behind which
@@ -469,8 +469,8 @@ British media.
 And so we spent a great deal of time strategizing about it, we
 resolved that we were going to have to be very disruptive of the
 status quo. Not only the surveillance and political status quo, but
-also the journalistic status quo. And, I think, one of the ways we can
-see what it is we were targeting these and the behaviour of the media
+also the journalistic status quo. And I think one of the ways that you can
+see what it is that we were targeting is in the behaviour of the media
 over the past six months since these revelations have emerged almost
 entirely without them and despite them.
 
