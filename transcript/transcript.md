@@ -662,7 +662,7 @@ susceptible to being watched, even if they're not always being
 watched, the choices that they make are far more constrained, are far
 more limited, cling far more closely to orthodoxy, than when they can
 act in the private realm, and that's precisely why the NSA and GCHQ,
-and the world's most powerful [? 41:49] throughout history now, always
+and the world's most powerful tyrannies throughout history now, always
 as their first goal, have the elimination of privacy at the top of
 their list, because it's what ensures that human beings can no longer
 resist the decrees that they're issuing.
